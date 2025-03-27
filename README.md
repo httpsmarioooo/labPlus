@@ -31,3 +31,8 @@ If you have completed the above tasks, try the following extra tasks for a bonus
 
 7. How might you attempt to replace a sequence of odd prime numbers with a new word in a list or array?
     * An example list has been provided in the buzzWords array. Add your own words for higher prime numbers!
+
+
+    ![alt text](image.png)
+
+    
